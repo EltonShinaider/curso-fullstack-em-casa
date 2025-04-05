@@ -14,35 +14,35 @@ Este repositório contém os arquivos feitos no curso FullStack juntamente com a
 
   📌 Exercício 01
   
-  ![Texto alternativo](aula01/assets/exercicio01.png)
+  ![Print](./assets/exercicio01.png)
 
   📌 Exercício 02
   
-  ![Texto alternativo](aula01/assets/exercicio02.png)
+  ![Print](./assets/exercicio02.png)
 
   📌 Exercício 03
   
-  ![Texto alternativo](aula01/assets/exercicio03.png)
+  ![Print](./assets/exercicio03.png)
 
   📌 Exercício 04
   
-  ![Texto alternativo](aula01/assets/exercicio04.png)
+  ![Print](./assets/exercicio04.png)
   
  📌 Exercício 05
  
-  ![Texto alternativo](aula01/assets/exercicio05.png)
+  ![Print](./assets/exercicio05.png)
   
  📌 Exercício 06
  
-  ![Texto alternativo](aula01/assets/exercicio06.png)
+  ![Print](./assets/exercicio06.png)
   
  📌 Exercício 07
   
-  ![Texto alternativo](aula01/assets/exercicio07.png)
+  ![Print](./assets/exercicio07.png)
   
   📌 Exercício 08
   
-  ![Texto alternativo](aula01/assets/exercicio08.png)
+  ![Print](./assets/exercicio08.png)
   
 </details>
 
